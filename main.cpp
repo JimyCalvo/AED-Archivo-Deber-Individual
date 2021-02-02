@@ -50,9 +50,9 @@ void Menu(void)
 {  
   cout<<"\t\t╔═════════════════════════════╗\n";
   cout<<"\t\t║           █ MENÚ █          ║\n";
-	cout<<"\t\t║  1) Ingreso de datos        ║\n";
-	cout<<"\t\t║  2) Mostrar Datos           ║\n";
-	cout<<"\t\t║  3) Salir                   ║\n";
+  cout<<"\t\t║  1) Ingreso de datos        ║\n";
+  cout<<"\t\t║  2) Mostrar Datos           ║\n";
+  cout<<"\t\t║  3) Salir                   ║\n";
   cout<<"\t\t╚═════════════════════════════╝\n";		
 }
 //------Ingrseo de datos a registro----//
@@ -117,9 +117,9 @@ void Menu2(void)
 {  
   cout<<"\t╔═══════════════════════════════════╗\n";
   cout<<"\t║     --Ingreso de datos MENÚ--     ║\n";
-	cout<<"\t║  1) Sobrescribir Archivo          ║\n";
-	cout<<"\t║  2) Ingresar datos en el Archivo  ║\n";
-	cout<<"\t║  3) Salir al menu                 ║\n";
+  cout<<"\t║  1) Sobrescribir Archivo          ║\n";
+  cout<<"\t║  2) Ingresar datos en el Archivo  ║\n";
+  cout<<"\t║  3) Salir al menu                 ║\n";
   cout<<"\t╚═══════════════════════════════════╝\n";		
 } 
 //Funcion de ingreso de mas datos
